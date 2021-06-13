@@ -1,0 +1,11 @@
+numpy==1.19.2
+pandas==1.2.4
+seaborn==0.11.1
+nltk==3.6.2
+imbalanced_learn==0.7.0
+tqdm==4.50.2
+jupyterthemes==0.20.0
+matplotlib==3.3.4
+scipy==1.6.2
+imblearn==0.0
+scikit_learn==0.24.2
