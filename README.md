@@ -12,3 +12,15 @@ After completing this assignment, you will be able to:
 2. Detect anomalies in multivariate data
 3. Detect anomalies in continuous and discrete sequential data
 4. Evaluate the performance of anomaly detection methods
+
+## Assignment 3 - Data Stream Mining
+After completing this assignment, you will be able to:
+1. Use sampling and hashing to create approximations from large data streams.
+2. Build a locality sensitive hashing scheme for fast distance computations.
+3. Build methods for fingerprinting and profiling sequential behaviours.
+4. Successfully detect botnets in network data.
+
+## Assignment 4 - Adversarial ML
+After completing this assignment, you will be able to:
+1. Attack classifiers to avoid detection.
+2. Defend against such attacks by making classifiers more robust.
